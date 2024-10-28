@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm [Atique Hassan] 👋
 
-<!--
-**Atique-Hassan/Atique-Hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I'm a passionate web developer with a focus on [your specialties, e.g., front-end, back-end, full-stack]. I love creating beautiful, responsive websites and web applications that provide a great user experience.
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools
+- **Languages**: HTML, CSS, JavaScript, [any others you know]
+- **Tools**: Git, GitHub, [any other tools like Docker, Webpack, etc.]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me
+- [LinkedIn](http://linkedin.com/in/atiquehassan/)
+- [Twitter](your-twitter-profile)
+- [Personal Website/Portfolio](your-website)
+
+## 📫 How to Reach Me
+Feel free to reach out via email: [atiquehassan102@gmail.com]
+
+## 💻 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+Thank you for visiting my GitHub profile! Looking forward to collaborating with you.
